@@ -1,0 +1,1 @@
+module.exports=io=>{io.on('connection',s=>{s.on('transaction_added',d=>{});});};
